@@ -1,1 +1,1 @@
-from ProfileLink import LinkProbe
+from Turing.ProfileLink.ProfileLink import LinkProbe
